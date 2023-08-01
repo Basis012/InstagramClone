@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "333422243634",
+    "project_id": "instagram-a331c",
+    "storage_bucket": "instagram-a331c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333422243634:android:315304a4f68eb2b948712b",
+        "android_client_info": {
+          "package_name": "com.qbs.instanew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333422243634-6pldn767p62rlbi9h9ncjuf2lsoaqn4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc611IQb8UwUj_Ehdld9j84DUDw5122xQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333422243634-6pldn767p62rlbi9h9ncjuf2lsoaqn4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
